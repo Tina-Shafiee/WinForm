@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/01_View/">
+    <Project Path="View/View.csproj" />
+  </Folder>
+  <Folder Name="/02_ApplicationService/">
+    <Project Path="ApplicationService/ApplicationService.csproj" />
+  </Folder>
+  <Folder Name="/03_Model/">
+    <Project Path="Model/Model.csproj" />
+  </Folder>
+</Solution>
