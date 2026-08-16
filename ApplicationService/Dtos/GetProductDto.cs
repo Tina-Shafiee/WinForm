@@ -16,6 +16,6 @@ namespace ApplicationService.Dtos
 
         public int Quantity { get; set; }
 
-        public int TotalPrice => UnitPrice * Quantity;
+        public long TotalPrice => UnitPrice * Quantity;
     }
 }
